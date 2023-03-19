@@ -9,8 +9,7 @@ In order to do that follow these steps:
 For PyQt5:
 
 1. Open the command prompt
-2. Type 'pip install PyQt5'
-if you get a error when you typed that follow these steps and try 2. again: https://www.alphr.com/pip-is-not-recognized-as-an-internal-or-external-command/ 
+2. Type 'pip install PyQt5'. if you get a error when you typed that follow these steps and try again: https://www.alphr.com/pip-is-not-recognized-as-an-internal-or-external-command/ 
 3. Enjoy!
 
 For Python:
